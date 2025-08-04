@@ -7,7 +7,7 @@ A modern and responsive **web application** that predicts the estimated insuranc
 ---
 ## 🚀 Live Demo
 
-👉 [Click here to try the live app on Railway](https://insurance-prediction.up.railway.app/)
+👉 [Click here to try the live app on Railway](https://web-production-d1dd2.up.railway.app/)
 ---
 
 ## 🚀 Features
@@ -102,7 +102,7 @@ print("Test R² Score:", r2_score(y_test, test_pred))
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<Adarsh130>/insurance-predictor.git
+git clone https://github.com/Harsha-pandey9/Insurence_Predection.git
 cd insurance-predictor
 ```
 
@@ -164,5 +164,5 @@ This project is open-source under the [MIT License](LICENSE).
 
 ## ❤️ Footer
 
-> Made with ❤️ by **Adarsh Paswan**
+> Made with ❤️ by **Harsha Pandey**
 
